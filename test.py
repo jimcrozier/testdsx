@@ -1,2 +1,2 @@
-def testthis():
-  print "hello"
+def thisisatest(nm):
+    print nm
